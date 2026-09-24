@@ -1,0 +1,5 @@
+.env
+.logros-estado.json
+__pycache__/
+*.pyc
+.venv/
